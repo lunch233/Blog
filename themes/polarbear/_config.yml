@@ -1,0 +1,87 @@
+# ===========================================
+# Site Information Settings
+# ===========================================
+
+# Site creation time
+since: 2019
+
+# Custom your favicon.ico in `site/source`
+favicon: /favicon.ico
+
+# Set feed link (false | default | your feed link)
+# false: disable
+# default: use `atom.xml`, generator for `hexo-generator-feed`
+rss: default
+
+# ===========================================
+# Menu Settings
+# ===========================================
+menu:
+  归档: /archives
+  关于: /about
+
+# ===========================================
+# Widget Settings
+# ===========================================
+# widget function
+# false: disable
+# widget_custom: custom your widget
+#   title: your widget title
+#   content: Add your html code in here. Example: <p>testing...</p>
+widget:
+  Tags: true
+  Categories: true
+  Custom: false
+
+widget_Custom:
+    title: 标签
+    content: <p>testing...</p>
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: true
+# ===========================================
+# Theme Settings
+# ===========================================
+# theme styling
+# color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
+theme:
+  color: Default
+  fancybox: false
+
+# ===========================================
+# Third Party Services Settings
+# ===========================================
+
+# Baidu Analytics
+baidu_analytics:
+# Google Analytics
+google_analytics:
+
+# Duoshuo
+duoshuo_shortname:
+# Disqus
+disqus_shortname:
+
+markdown_it_plus:
+  highlight: true
+  html: true
+  xhtmlOut: true
+  breaks: true
+  langPrefix:
+  linkify: true
+  typographer:
+  quotes: “”‘’
+  plugins:
+    - plugin:
+        name: markdown-it-katex
+        enable: true
+    - plugin:
+        name: markdown-it-mark
+        enable: false
+
+# ===========================================
+# Version
+# ===========================================
+version: 1.1
