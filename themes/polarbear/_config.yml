@@ -35,7 +35,8 @@ widget:
 
 widget_custom:
     title: 友情链接
-    content: <a href="https://blog.csdn.net/cnyali">廖哥的博客！！！</a> <br> <a href="https://blog.csdn.net/ylsoi">AK王ylsoi的博客！！！</a> <br> <a href="blog.csdn.net/hhaannyyii">RudyGay的博客！！！</a> <br> <a href="blog.csdn.net/qq_35703773">Bzy巨佬博客！！！</a> <br> <a href="https://www.cnblogs.com/LSTete/">Gaystete的博客！！！</a> <br> <a href="https://blog.csdn.net/weixin_42437440">_Sfukin！！！</a> <br> <a href="https://www.cnblogs.com/brunch/">大菜b的博客！！！</a> <br> <a href="https://blog.csdn.net/forever_shi">forever_shi的博客！！！</a> <br>
+    content: 
+    #<a href="https://blog.csdn.net/cnyali">廖哥的博客！！！</a> <br> <a href="https://blog.csdn.net/ylsoi">AK王ylsoi的博客！！！</a> <br> <a href="blog.csdn.net/hhaannyyii">RudyGay的博客！！！</a> <br> <a href="blog.csdn.net/qq_35703773">Bzy巨佬博客！！！</a> <br> <a href="https://www.cnblogs.com/LSTete/">Gaystete的博客！！！</a> <br> <a href="https://blog.csdn.net/weixin_42437440">_Sfukin！！！</a> <br> <a href="https://www.cnblogs.com/brunch/">大菜b的博客！！！</a> <br> <a href="https://blog.csdn.net/forever_shi">forever_shi的博客！！！</a> <br>
 
 # MathJax Support
 mathjax:
