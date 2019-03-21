@@ -79,5 +79,5 @@ theme: polarbear
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:lunch233/lunch233.github.io.git
+  repo: https://github.com/lunch233/lunch233.github.io
   branch: master
